@@ -47,8 +47,8 @@ Para a utilização do DHT11, utilizamos uma biblioteca externa do site:
 https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-umidade-e-temperatura-dht11 </p>
 
 <h2>Integrantes do grupo</h2>
-GUILHERME ROCHA BIANCHINI - RM: 97974
-NIKOLAS RODRIGUES MOURA DOS SANTOS - RM: 551566
-PEDRO HENRIQUE PEDROSA TAVARES - RM:97877
-RODRIGO BRASILEIRO - RM:98952
-THIAGO JARDIM DE OLIVEIRA - RM:551624
+<p>GUILHERME ROCHA BIANCHINI - RM: 97974</p>
+<p>NIKOLAS RODRIGUES MOURA DOS SANTOS - RM: 551566</p>
+<p>PEDRO HENRIQUE PEDROSA TAVARES - RM:97877</p>
+<p>RODRIGO BRASILEIRO - RM:98952</p>
+<p>THIAGO JARDIM DE OLIVEIRA - RM:551624</p>
